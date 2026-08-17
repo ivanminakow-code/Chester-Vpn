@@ -1,4 +1,4 @@
-# profile-title: Хуц
+# profile-title: Не выебывайся бро
 # profile-update-interval: 1
 # Date/Time: 2026-07-04 / 11:20 (Moscow)
 # Количество: 150
@@ -10,3 +10,4 @@
 
 
 
+"vless://7855f776-0d38-0037-ad02-feb304b8ef4a@84.38.187.169:443?flow=&type=xhttp&host=&path=/script&mode=packet-up&extra={"xmux":{"cMaxReuseTimes": 0,"hKeepAlivePeriod": 0,"hMaxRequestTimes": "600-900","hMaxReusableSecs": "1800-3000","maxConnections": 2}}&security=reality&fp=firefox&sni=mc.yandex.tr&pbk=rJMYW6mHgjs61mHxfm8Gmm_Re23sV_xe5b0IrTpLsiQ&sid=94c9dbbf07366d96#🇱🇻 Латвия №1"
