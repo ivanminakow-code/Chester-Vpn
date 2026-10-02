@@ -6,3 +6,4 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?security=none&se
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?fp=random&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?fp=random&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom
 vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?fp=chrome&pbk=i1OqphFMJNL_xwV5zES4icJTPBHtSgieOt3FYns9zB0&security=reality&sid=2b&sni=www.amazon.com&type=tcp#🇩🇪 Германия
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=safari&host=%2F%3Ftelegram&security=tls&sni=grok.setlisting.ru&type=tcp#🇱🇻 Латвия
