@@ -13,3 +13,4 @@ vless://1e534c59-85c2-4042-a407-e491f68cb3a5@port2.axiomed.ir:443?fp=chrome&host
 vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.59.216.138:2083?encryption=none&security=tls&sni=crt.onecloudstream.com&fp=chrome&type=ws&path=%2Fvless-ws&alpn=http%2F1.1#🇩🇪 Германия
 hy2://ce29a04d-c95a-4451-9518-bae0c074e0d7@138.124.242.247:443?insecure=0&sni=crt.onecloudstream.com&alpn=h3#🇵🇱 Польша ЗАПАСНОЙ
 vless://42b2279b-3564-495f-b72e-44f29dd9f8f1@93.177.116.70:443?encryption=none&security=reality&sni=b3.archive.rubuntu.space&fp=random&pbk=PXknHLFwJUFW8PIiPtlJNjkFpUGfbFuV_7g4fXNreCk&sid=0d934c5d&type=xhttp&path=%2F&mode=packet-up#🇳🇱 Нидерланды FREE
+vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?encryption=none&security=none&type=ws&host=stigmata.ir&path=#🇸🇪 Швеция
