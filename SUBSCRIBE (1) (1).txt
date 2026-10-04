@@ -9,3 +9,4 @@ vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?fp=chrome&pbk=i1
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=safari&host=%2F%3Ftelegram&security=tls&sni=grok.setlisting.ru&type=tcp#🇱🇻 Латвия FREE
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?encryption=none&security=none&type=grpc&mode=gun&authority=&serviceName=vless#%D0%92%D0%95%D0%9B%D0%98%D0%9A%D0%9E%D0%91%D0%A0%D0%98%D0%A2%D0%90%D0%9D%D0%98%D0%AF%20 FREE
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?security=none&serviceName=vless&sni=66.90.105.211&type=grpc#🇬🇧 Великобритания
+vless://1e534c59-85c2-4042-a407-e491f68cb3a5@port2.axiomed.ir:443?fp=chrome&host=kjz42cni3-krcuj2-gqs8ves15.fornewiran-1010.workers.dev&path=%2Fvl%2FZ8Ag5xQbwmhIHsvyDj3&security=tls&sni=kjz42cni3-krcuj2-gqs8ves15.fornewiran-1010.workers.dev&type=ws#🇩🇪 Германия ⚡
