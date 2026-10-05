@@ -8,6 +8,7 @@
 
 
 vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@37.16.74.253:2053?encryption=none&security=reality&sni=nl1.stonebridge-static.com&fp=firefox&pbk=aoJKY6u1KowFzQVYe9spcPDY1vCGA8ibzSVrofW3AnU&sid=bfee93651efcf114&type=grpc&serviceName=4fgk11ck2j2w#🇪🇺 ⚡ Автовыбор
+vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@45.132.177.122:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=t1.stonebridge-static.com&fp=firefox&pbk=56e_fE6a_DiAc9fUEkY-nV7I93uT-NCg5jshR3g4ejY&sid=8c68214d586276f8#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%86%98%20%D0%AD%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%231
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?security=none&serviceName=vless&sni=66.90.105.211&type=grpc#🇬🇧 United Kingdom FREE
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?fp=random&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?fp=random&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom
