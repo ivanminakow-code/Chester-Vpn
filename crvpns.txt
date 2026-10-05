@@ -2,3 +2,5 @@
 #profile-update-interval: 1
 #hide-settings: 1
 vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.187.230:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=press.nothingchange.com&fp=firefox&pbk=aBdfJ20quHG_JMl0si5bZNsjxIJHltBkS-te8dAtMUc&sid=4cbda25fead6ce58&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20Helsinki
+
+vless://142590d7-217c-4cc3-a38b-87a5d458f688@195.189.98.116:443?encryption=none&security=tls&type=ws&sni=hub.zazavideo.org&fp=firefox&path=/hub/838529383/segment&host=hub.zazavideo.org#%F0%9F%87%B3%F0%9F%87%B1%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20Amsterdam
