@@ -2,22 +2,6 @@
 #profile-update-interval: 1
 #hide-settings: 1
 
-
-
-
-
-
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@37.16.74.253:2053?encryption=none&security=reality&sni=nl1.stonebridge-static.com&fp=firefox&pbk=aoJKY6u1KowFzQVYe9spcPDY1vCGA8ibzSVrofW3AnU&sid=bfee93651efcf114&type=grpc&serviceName=4fgk11ck2j2w#🇪🇺 ⚡ Автовыбор
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@45.132.177.122:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=t1.stonebridge-static.com&fp=firefox&pbk=56e_fE6a_DiAc9fUEkY-nV7I93uT-NCg5jshR3g4ejY&sid=8c68214d586276f8#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%86%98%20%D0%AD%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%231
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?security=none&serviceName=vless&sni=66.90.105.211&type=grpc#🇬🇧 United Kingdom FREE
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.105.211:2083?fp=random&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?fp=random&security=none&serviceName=vless&type=grpc#🇬🇧 United Kingdom
-vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?fp=chrome&pbk=i1OqphFMJNL_xwV5zES4icJTPBHtSgieOt3FYns9zB0&security=reality&sid=2b&sni=www.amazon.com&type=tcp#🇩🇪 Германия
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=safari&host=%2F%3Ftelegram&security=tls&sni=grok.setlisting.ru&type=tcp#🇱🇻 Латвия FREE
-vless://1e534c59-85c2-4042-a407-e491f68cb3a5@port2.axiomed.ir:443?fp=chrome&host=kjz42cni3-krcuj2-gqs8ves15.fornewiran-1010.workers.dev&path=%2Fvl%2FZ8Ag5xQbwmhIHsvyDj3&security=tls&sni=kjz42cni3-krcuj2-gqs8ves15.fornewiran-1010.workers.dev&type=ws#🇩🇪 Германия ⚡
-vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.59.216.138:2083?encryption=none&security=tls&sni=crt.onecloudstream.com&fp=chrome&type=ws&path=%2Fvless-ws&alpn=http%2F1.1#🇩🇪 Германия
-hy2://ce29a04d-c95a-4451-9518-bae0c074e0d7@138.124.242.247:443?insecure=0&sni=crt.onecloudstream.com&alpn=h3#🇵🇱 Польша ЗАПАСНОЙ
-vless://42b2279b-3564-495f-b72e-44f29dd9f8f1@93.177.116.70:443?encryption=none&security=reality&sni=b3.archive.rubuntu.space&fp=random&pbk=PXknHLFwJUFW8PIiPtlJNjkFpUGfbFuV_7g4fXNreCk&sid=0d934c5d&type=xhttp&path=%2F&mode=packet-up#🇳🇱 Нидерланды FREE
 vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@api.fm651.xyz:12993?encryption=none&security=reality&sni=mega.io&fp=edge&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&type=xhttp&path=%2Fapi_v2&mode=auto&host=#🇳🇱 НИДЕРЛАНДЫ 2 ⚡
 vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@new.fm651.xyz:443?encryption=none&security=reality&sni=new.fm651.xyz&fp=firefox&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&spx=%2F&type=tcp&headerType=none#🇳🇱 НИДЕРЛАНДЫ 3 ⚡
 vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@api.fm651.xyz:12993?encryption=none&security=reality&sni=mega.io&fp=edge&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&type=xhttp&path=%2Fapi_v2&mode=auto&host=#🇳🇱 НИДЕРЛАНДЫ 4 ⚡ FREE
@@ -28,10 +12,3 @@ vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.187.230:443?encryption=none&
 vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.185.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=news.nothingchange.com&fp=firefox&pbk=Oab5B3lvu_ukssfGej5kgRCdVfQ3vJA2jhamjo4uTTc&sid=cc83bfb9270dd04c&type=tcp#🇮🇹 Италия Rome
 vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.182.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.nothingchange.com&fp=randomized&pbk=Z0UXnhe6vFYiCRNjSbDaDGxkH2uno9chavzDmHpNVQw&sid=202234440a964abb&type=tcp#🇪🇪 Эстония Tallinn
 vless://142590d7-217c-4cc3-a38b-87a5d458f688@144.31.242.190:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=team.nothingchange.com&fp=randomized&pbk=2bMIvDd_RofkvzBDqY2RXZM2vXoKKGJMCv_S4el80Bg&sid=c8a794fad1e29e0f&type=tcp#🇩🇰 Дания Copenhagen
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@37.16.74.253:2053?encryption=none&security=reality&sni=nl1.stonebridge-static.com&fp=firefox&pbk=aoJKY6u1KowFzQVYe9spcPDY1vCGA8ibzSVrofW3AnU&sid=bfee93651efcf114&type=grpc&serviceName=4fgk11ck2j2w#🇳🇱 Нидерланды
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@31.77.113.139:2053?encryption=none&security=reality&sni=pl2.stonebridge-static.com&fp=firefox&pbk=1EoRmv_8GPmh6yaex74qM8gXbXp9zQS_Grd7sSdmKBo&sid=9092b6874356359f&type=grpc&serviceName=tk9uplcii54kuuqu#🇵🇱 Польша
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@88.216.70.82:2053?encryption=none&security=reality&sni=de2.stonebridge-static.com&fp=firefox&pbk=npLhzZgkPeAv2sV6DpY3xLv7TdBHzhx6YJo5_FE1wD4&sid=efd586d9f6d29924&type=grpc&serviceName=r435daia08abapti#🇩🇪 Германия
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@88.216.190.16:2053?encryption=none&security=reality&sni=de1.stonebridge-static.com&fp=firefox&pbk=Z-jqdjKQtg3XQlCrJJlkxkKan2ooSf25ioqzWVIQrGk&sid=1a545e3ff29eadd7&type=grpc&serviceName=rytz01oph165#🇩🇪 Германия
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@88.216.73.123:2053?encryption=none&security=reality&sni=us1.stonebridge-static.com&fp=firefox&pbk=r4UxDlKPUDkGDXR1YuYahf4xk75LitQKXWGpZ1qufzY&sid=2dca966132bbedc3&type=grpc&serviceName=iwa1gc1ew28w#🇺🇸 США
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@188.72.103.4:443?encryption=none&security=tls&sni=gw2.stonebridge-static.com&fp=firefox&type=xhttp&host=gw2.stonebridge-static.com&path=%2Fapi%2Fv3%2Ffeed%2Fupdates&mode=packet-up#🇪🇺 Свободный интернет #1
-vless://ffaf44cb-bd10-454b-8382-9ac21e86f9d5@188.72.103.4:443?encryption=none&security=tls&sni=gw2.stonebridge-static.com&fp=firefox&type=xhttp&host=gw2.stonebridge-static.com&path=%2Fapi%2Fv3%2Ffeed%2Fsync&mode=packet-up#🇪🇺 Свободный интернет #2
