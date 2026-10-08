@@ -2,13 +2,4 @@
 #profile-update-interval: 1
 #hide-settings: 1
 
-vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@api.fm651.xyz:12993?encryption=none&security=reality&sni=mega.io&fp=edge&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&type=xhttp&path=%2Fapi_v2&mode=auto&host=#🇳🇱 НИДЕРЛАНДЫ 2 ⚡
-vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@new.fm651.xyz:443?encryption=none&security=reality&sni=new.fm651.xyz&fp=firefox&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&spx=%2F&type=tcp&headerType=none#🇳🇱 НИДЕРЛАНДЫ 3 ⚡
-vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@api.fm651.xyz:12993?encryption=none&security=reality&sni=mega.io&fp=edge&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&type=xhttp&path=%2Fapi_v2&mode=auto&host=#🇳🇱 НИДЕРЛАНДЫ 4 ⚡ FREE
-vless://ed2d0510-06e6-4eec-bcb3-0d5f2d947461@cloud.fm651.xyz:443?encryption=none&security=reality&sni=cloud.fm651.xyz&fp=edge&pbk=YSCf49AIp5SFLQ3tKb5LhDp-CLjOa4TBispwwV-1n14&sid=19f2a2db20898f56&spx=%2F&type=tcp&headerType=none#🇩🇪 ГЕРМАНИЯ 2 ⚡
-vless://142590d7-217c-4cc3-a38b-87a5d458f688@195.189.98.116:443?encryption=none&security=tls&sni=hub.zazavideo.org&fp=firefox&type=ws&path=%2Fhub%2F838529383%2Fsegment%3Fed%3D2560&host=hub.zazavideo.org#🇳🇱 Игровой Amsterdam
-vless://142590d7-217c-4cc3-a38b-87a5d458f688@2.27.211.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=watch.zazavideo.org&fp=firefox&pbk=7bcQjSKiJwFM1jDIk6gLYycTfIFzjWb6bxAON90k_EM&sid=4c73ab3fb802de43&type=tcp#🇵🇱 Польша Warsaw
-vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.187.230:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=press.nothingchange.com&fp=firefox&pbk=aBdfJ20quHG_JMl0si5bZNsjxIJHltBkS-te8dAtMUc&sid=4cbda25fead6ce58&type=tcp#🇫🇮 Финляндия Helsinki
-vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.185.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=news.nothingchange.com&fp=firefox&pbk=Oab5B3lvu_ukssfGej5kgRCdVfQ3vJA2jhamjo4uTTc&sid=cc83bfb9270dd04c&type=tcp#🇮🇹 Италия Rome
-vless://142590d7-217c-4cc3-a38b-87a5d458f688@13.143.182.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=blog.nothingchange.com&fp=randomized&pbk=Z0UXnhe6vFYiCRNjSbDaDGxkH2uno9chavzDmHpNVQw&sid=202234440a964abb&type=tcp#🇪🇪 Эстония Tallinn
-vless://142590d7-217c-4cc3-a38b-87a5d458f688@144.31.242.190:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=team.nothingchange.com&fp=randomized&pbk=2bMIvDd_RofkvzBDqY2RXZM2vXoKKGJMCv_S4el80Bg&sid=c8a794fad1e29e0f&type=tcp#🇩🇰 Дания Copenhagen
+vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:443?encryption=none&security=tls&sni=141.98.7.193&fp=firefox&type=tcp&headerType=none#ОБХОД#1
