@@ -3,3 +3,12 @@
 #hide-settings: 1
 
 vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:443?encryption=none&security=tls&sni=141.98.7.193&fp=firefox&type=tcp&headerType=none#ОБХОД#1
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=safari&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#2
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=chrome&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#3
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&host=edge-uk2.mystatic-cdn.ru&path=%2F&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#4
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#5
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#6
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Ftelegram---planb_net---planb_net---planb_net---planb_net&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#7
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=safari&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=raw#ОБХОД#8
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#9
+vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&host=edge-uk2.mystatic-cdn.ru&path=%2F+&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#10
