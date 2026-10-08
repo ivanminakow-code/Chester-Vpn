@@ -12,3 +12,4 @@ vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vi
 vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=safari&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=raw#ОБХОД#8
 vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#9
 vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&host=edge-uk2.mystatic-cdn.ru&path=%2F+&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#ОБХОД#11
