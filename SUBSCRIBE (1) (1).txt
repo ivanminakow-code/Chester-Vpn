@@ -2,14 +2,4 @@
 #profile-update-interval: 1
 #hide-settings: 1
 
-vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:443?encryption=none&security=tls&sni=141.98.7.193&fp=firefox&type=tcp&headerType=none#ОБХОД#1
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=safari&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#2
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=chrome&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#3
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&host=edge-uk2.mystatic-cdn.ru&path=%2F&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#4
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#5
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#6
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Ftelegram---planb_net---planb_net---planb_net---planb_net&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#7
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=safari&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=raw#ОБХОД#8
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#9
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?flow=xtls-rprx-vision&fp=firefox&host=edge-uk2.mystatic-cdn.ru&path=%2F+&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#ОБХОД#10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#ОБХОД#11
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.84:2053?encryption=none&security=tls&sni=summerculture.net&alpn=h2%2C%20%2Bhttp%2F1.1&fp=firefox&type=xhttp&mode=auto&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%237
