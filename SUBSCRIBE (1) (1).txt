@@ -10,3 +10,4 @@ vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?encryption=none
 vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?encryption=none&security=reality&sni=www.apple.com&fp=random&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M&sid=9922313fffed1c63&spx=%2F&type=tcp&headerType=none#🇯🇵 ЯПОНИЯ 4
 ss://YWVzLTEyOC1nY206dmxkb2xtbG16bXlwYzM2b2todW0=@51.158.26.27:15104#🇳🇱 НИДЕРЛАНДЫ
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFVDS0ViUGVKNEhHdG51RG5NT3gvdWUzdnFsQ0l0aEVTMG9nTGhsOHJZYz06d1N3UlY0clVaakJ6c3gyZ3Fuc1BvU1Iyb29qbm5TSVlVditKeFgzNllJ}@31.57.185.253:53396#🇳🇱 НИДЕРЛАНДЫ 2
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@nd-3.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&spx=%2F&type=tcp&headerType=none#🇳🇱 НИДЕРЛАНДЫ 3
