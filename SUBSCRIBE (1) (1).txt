@@ -1,7 +1,8 @@
 #profile-title: IvanVPN 
 #profile-update-interval: 1
 #hide-settings: 1
-
+#announce: Если сервера не работают напишите мне в ТГ
+#support-url: https://t.me/ivansuper123
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.84:2053?encryption=none&security=tls&sni=summerculture.net&alpn=h2%2C%20%2Bhttp%2F1.1&fp=firefox&type=xhttp&mode=auto&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload#ОБХОД ⚡
 vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.59.216.59:2083?encryption=none&security=tls&sni=crt.onecloudstream.com&fp=chrome&type=ws&path=%2Fvless-ws&alpn=http%2F1.1#🇩🇪 Германия
