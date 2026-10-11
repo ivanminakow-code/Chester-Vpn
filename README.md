@@ -10,6 +10,3 @@ ChesterVPN
 https://raw.githubusercontent.com/ivanminakow-code/Bobin-VPN/refs/heads/main/SUBSCRIBE%20(1)%20(1).txt
 
 
-КОНФИГУРАЦИЯ ДЛЯ HIDDIFY
-
-https://raw.githubusercontent.com/ivanminakow-code/Chester-Vpn/refs/heads/main/Sub-for-HIDDIFY.txt
