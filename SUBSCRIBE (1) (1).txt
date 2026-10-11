@@ -6,7 +6,7 @@
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?encryption=none&security=reality&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&spx=%2F&type=grpc&serviceName=media.v1.ObjectService#⚡ Обход
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?encryption=none&security=reality&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=media.v1.ObjectService#🇷🇸 ⚡ Сербия
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇬🇧 Великобритания ⚡
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.84:2053?encryption=none&security=tls&sni=summerculture.net&alpn=h2%2C%20%2Bhttp%2F1.1&fp=firefox&type=xhttp&mode=auto&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload#Когда глушат интернет
 vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@31.59.216.162:2083?encryption=none&type=ws&path=%2Fvless-ws&security=tls&sni=crt.onecloudstream.com&fp=chrome&alpn=http%2F1.1#🇩🇪 Германия
 
