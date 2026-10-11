@@ -1,6 +1,8 @@
 import telebot
 from telebot import types
 import os
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
 import requests
 
 # ========== НАСТРОЙКИ ==========
@@ -160,5 +162,30 @@ def handle_text(message):
         bot.send_message(message.chat.id, "❌ НЕВЕРНЫЙ КОД")
 
 
+# ========== ВЕБ-СЕРВЕР ДЛЯ RENDER ==========
+class HealthHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/plain")
+        self.end_headers()
+        self.wfile.write(b"OK")
+
+    def do_HEAD(self):
+        self.send_response(200)
+        self.end_headers()
+
+    def log_message(self, format, *args):
+        pass
+
+
+def run_health_server():
+    port = int(os.environ.get("PORT", 10000))
+    server = HTTPServer(("0.0.0.0", port), HealthHandler)
+    server.serve_forever()
+
+
 if __name__ == "__main__":
+    # Запускаем веб-сервер в фоне
+    threading.Thread(target=run_health_server, daemon=True).start()
+    # Запускаем бота
     bot.polling(none_stop=True)
