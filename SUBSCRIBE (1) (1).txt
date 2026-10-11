@@ -1,4 +1,4 @@
-#profile-title: IvanVPN 
+#profile-title: ChesterVPN
 #profile-update-interval: 1
 #hide-settings: 1
 #announce: Если сервера не работают напишите мне в ТГ
