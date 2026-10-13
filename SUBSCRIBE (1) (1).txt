@@ -6,3 +6,4 @@
 
 vless://ce29a04d-c95a-4451-9518-bae0c074e0d7@64.188.83.228:2083?type=ws&security=tls&fp=chrome&sni=crt.onecloudstream.com&path=/vless-ws&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20%20DoDoVPN%20%7C%20VLESS%20WS%20TLS%20%E2%9A%A1%EF%B8%8F
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@de-1-1.unturned-rust-dead.lol:443?type=grpc&security=reality&fp=safari&sni=de-1-1.unturned-rust-dead.lol&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&serviceName=de-grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany,%20Maisach%20%7C%20%5BBL%5D
+vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz&path=/&host=ccc.010304.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
