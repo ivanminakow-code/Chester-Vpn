@@ -10,3 +10,4 @@ vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@147.45.60.160:8444?fp=chrome&pbk=FW
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@147.45.60.160:8444?fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#vless-1810930734
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@147.45.60.160:8444?pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#vless-1784851435
 vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@5.161.243.170:443?flow=xtls-rprx-vision&fp=firefox&pbk=wGU52D9ma5glfMZBlecIb1nVcBdG1nKsBtSXxMTttCA&security=reality&sid=844a9f695e96785e&sni=ajax.aspnetcdn.com&type=tcp#vless-1804229642
+vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?type=ws&security=tls&path=/hokm&sni=stop.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
