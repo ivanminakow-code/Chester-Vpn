@@ -1,3 +1,9 @@
+#profile-title: ChesterVPN
+#profile-update-interval: 1
+#hide-settings: 1
+#announce: Если сервера не работают напишите мне в ТГ
+#support-url: https://t.me/ivansuper123
+
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?encryption=none&host=stop.localip.ir&path=%2Fhokm&security=tls&sni=stop.localip.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?path=/hokm&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=stop.localip.ir&type=ws&allowInsecure=0&sni=stop.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@stop.localip.ir:2087?type=ws&security=tls&path=/hokm&sni=stop.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
