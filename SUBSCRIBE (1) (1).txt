@@ -3,6 +3,7 @@
 #hide-settings: 1
 #announce: Если сервера не работают напишите мне в ТГ
 #sub-info-text: Чат обсуждения
+#sub-info-button-text: Написать
 #sub-info-button-link: https://t.me/ivanvpngroup
 
 
