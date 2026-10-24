@@ -3,6 +3,8 @@
 #hide-settings: 1
 #announce: Если сервера не работают напишите мне в ТГ
 #support-url: https://t.me/ivansuper123
+#sub-info-button-text: Чат Обсуждения
+#sub-info-button-link: https://t.me/ivanvpngroup
 
 vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@rus1.justnable.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=randomized&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%A1%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20(1)
