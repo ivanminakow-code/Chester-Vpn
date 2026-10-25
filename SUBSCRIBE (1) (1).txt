@@ -7,7 +7,7 @@
 #sub-info-button-link: https://t.me/ivanvpngroup
 
 
-vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@rus1.justnable.xyz:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.samsung.com&fp=randomized&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%A1%20%231
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?encryption=none&security=tls&sni=randomquaint.net&alpn=h2%2C%20http%2F1.1&type=xhttp&mode=auto&host=randomquaint.net&path=%2Fapi%2Fv1%2Fupload#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA%20%F0%9F%87%B2%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20(2)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20(3)
