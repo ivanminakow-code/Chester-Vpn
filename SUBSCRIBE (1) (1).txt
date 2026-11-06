@@ -4,4 +4,7 @@
 #announce: Если сервера не работают напишите мне в ТГ
 #support-url: https://t.me/ivansuper123
 
-vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Englewood%20Cliffs%20%7C%20%5BBL%5D
+
+
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@ee.song69.fun:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee.song69.fun&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+
