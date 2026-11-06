@@ -4,4 +4,4 @@
 #announce: Если сервера не работают напишите мне в ТГ
 #support-url: https://t.me/ivansuper123
 
-
+vless://00000000-0000-0000-0000-000000000000@192.0.2.1:443?encryption=none&security=tls&sni=example.com&type=ws&host=example.com&path=%2F#В ДАННЫЙ МОМЕНТ ВПН НЕ РАБОТАЕТ
