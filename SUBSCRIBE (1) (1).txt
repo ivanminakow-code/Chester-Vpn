@@ -1,7 +1,6 @@
-#profile-title: MIRO VPN
+#profile-title: Molny
 #profile-update-interval: 1
 #hide-settings: 1
-#announce: Ваш надежный ВПН!
+#announce: Лучший впн
 
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.220.53:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fi-b2.golangwikito.cfd&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6#%F0%9F%8C%90++happcluchi+vpn+%234
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.58.213.230:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cron.jarbook.net&pbk=kZT-TcQzZQL0sTmcsipzIgE7qO2vdZom4Res0KbnbQ0&sid=295f8129#%F0%9F%87%A9%F0%9F%87%AA++happcluchi+vpn+%2314
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ru7e2bab87cc39.eu-cdn539.com&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&sid=3992cc7fb9fcbe58#%F0%9F%87%B7%F0%9F%87%BA+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
