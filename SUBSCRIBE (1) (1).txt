@@ -5,3 +5,5 @@
 
 vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?alpn=http%2F1.1&encryption=none&host=speakpro.lol&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=uwugirl.dev&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20%5B%2ACIDR%5D
 vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=45.91.54.162&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
+vless://55458d10-24ab-4ea6-a522-13741b546f2a@79.182.39.138:443?sni=ec7a81g.de15.h1clayd.click&type=grpc&serviceName=43f41cd7fee0&fp=ios&security=reality&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&sid=7a8e24da4eb2c1b5#%F0%9F%87%AB%F0%9F%87%B7%20%20happcluchi%20vpn%20%2349
+vless://55458d10-24ab-4ea6-a522-13741b546f2a@79.182.39.138:443?security=reality&type=tcp&packetEncoding=xudp&sni=345739t.de15.h1clayd.click&fp=firefox&sid=23732d14a527990d&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%20happcluchi%20vpn%20%2320
