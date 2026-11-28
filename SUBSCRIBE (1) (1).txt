@@ -4,3 +4,6 @@
 #announce: Лучший впн
 
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.109.103.238:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=rumos.yandex-api.com&pbk=gQYbz6BaTE05ZD6sk_0lHZGsk2cXzt1cKdjVWZM_C2g&sid=badfead2ae4dca2e&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90+%7C+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1+%E2%AC%9C
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.191.130:443#%F0%9F%87%A9%F0%9F%87%AA+Germany+Frankfurt+am+Main+%7C+%E2%8F%B1320ms+%7C+%E2%9A%A11.0MB%2Fs+%7C+%40NamazVPN
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.125.43.168:443#%F0%9F%87%A9%F0%9F%87%AA+Germany+Frankfurt+am+Main+%7C+%E2%8F%B1300ms+%7C+%E2%9A%A11.1MB%2Fs+%7C+%40NamazVPN
+ss://YWVzLTI1Ni1nY206WWxSQzFnTTI2VzJiOURyTkd1VzdPbCs2RDN5WmtGMnVNTGZUMURUR1BpTT0@45.15.168.192:53844#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+London+%7C+%E2%8F%B1332ms+%7C+%E2%9A%A1676KB%2Fs+%7C+%40NamazVPN
