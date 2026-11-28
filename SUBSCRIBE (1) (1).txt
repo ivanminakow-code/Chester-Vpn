@@ -3,11 +3,4 @@
 #hide-settings: 1
 #announce: Лучший впн
 
-
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?type=xhttp&security=tls&fp=chrome&sni=plaksa.bootless.ru&alpn=h2,http/1.1#%F0%9F%87%B3%F0%9F%87%B1+Нидерланды
-vless://1443ce3c-c852-43c5-b3e6-27a55ea2b0b0@45.131.184.168:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=de8.devtalks.pro&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956#%F0%9F%87%B8%F0%9F%87%B4%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%E2%9A%A1
-
-vless://ab53f3b6-7962-4bc1-90f6-8420767b22a8@94.228.167.210:8443?type=xhttp&security=reality&fp=firefox&sni=cdn-nl.cahmes.space&pbk=R3xeImGP5Bsx42LkRruIs3vIKHnPVR9aodbouAiemzM&sid=d73a212e98084d3b&path=%2Fxhttp#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%E2%9A%A1%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
-vless://5f4e9bd0-4c9a-416b-92c3-ca43174728de@104.20.0.89:2053?type=ws&security=tls&fp=firefox&sni=farsnewsir.pages.dev&host=farsnewsir.pages.dev#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%231%E2%9A%A1%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
-
-vless://e8b7abeb-98d4-44b6-ba91-3adae6086108@201.58.133.77:443?type=tcp&security=reality&fp=firefox&sni=eu121.cdn77.icu&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#%F0%9F%87%B8%F0%9F%87%B4%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0+%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%E2%9A%A1
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.109.103.238:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=rumos.yandex-api.com&pbk=gQYbz6BaTE05ZD6sk_0lHZGsk2cXzt1cKdjVWZM_C2g&sid=badfead2ae4dca2e&spx=%2F#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90+%7C+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1+%E2%AC%9C
